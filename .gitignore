@@ -128,6 +128,8 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+mlruns/
+mlartifacts/
 .env
 .venv
 env/
